@@ -1,0 +1,35 @@
+body {
+    
+ 
+    background-image: url(https://i.ytimg.com/vi/6gFMRurwCSs/maxresdefault.jpg);
+    height: 100%;
+    
+}
+ 
+
+    
+h1{
+    color: magenta;
+    font-family: 'Nosifer', cursive;
+    text-shadow: 4px 1px;
+    text-align: center;
+}
+h2{
+    color: magenta;
+    font-family: 'Nosifer', cursive;
+    text-shadow: 1px 1px;
+    text-align: center;
+}
+ul{
+    color: magenta;
+    font-family: 'Nosifer', cursive;
+    text-shadow: 1px 1px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h6{
+    color: white;
+}
